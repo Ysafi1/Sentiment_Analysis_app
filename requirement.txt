@@ -1,0 +1,5 @@
+Transformers
+Gradio 
+Scikit-learn
+numpy
+torch
