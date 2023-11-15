@@ -54,6 +54,7 @@ project link
 **App Screen Short**
 
 
+<img src="AppImage.png" width ="1550px">
 
 
 
