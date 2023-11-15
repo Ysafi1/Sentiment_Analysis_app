@@ -62,6 +62,7 @@ check Out the model weights at https://colab.research.google.com/drive/1n6PmeRPT
 **App Screen Short**
 
 
+<img src="AppImage.png" width ="1550px">
 
 
 **Deployment app Link**
