@@ -10,7 +10,7 @@ pinned: false
 license: mit
 ---
 
-Author 
+Author : **KABANDA SAFI**
 ## Project Title
 ####  Sentiment Analysis Project
 
