@@ -49,7 +49,7 @@ the Training accuracies for Distilbert_base_uncased and Roberta base Model took 
 
 **Model weights**
 
-check Out the model weights at https://colab.research.google.com/drive/1n6PmeRPTzgRwnVTeM6oXKDCRsP-VKq0m#scrollTo=9X_C2KCtKYOJ&line=1&uniqifier=1
+check out the model weights at https://colab.research.google.com/drive/1n6PmeRPTzgRwnVTeM6oXKDCRsP-VKq0m#scrollTo=9X_C2KCtKYOJ&line=1&uniqifier=1
 
 **Project Links**
 
@@ -68,7 +68,11 @@ check Out the model weights at https://colab.research.google.com/drive/1n6PmeRPT
 **Deployment app Link**
 
 
+here is the deployment app link of Gradio Sentiments Analyzer
 
+| *Link* |
+|--------|
+| https://huggingface.co/spaces/KABANDA18/Gradio-Sentiments-Analyzer |
 
 
 
