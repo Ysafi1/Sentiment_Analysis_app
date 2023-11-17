@@ -1,5 +1,6 @@
-Transformers
-Gradio 
-Scikit-learn
+transformers
+gradio 
+gdown
+scikit-learn
 numpy
 torch
