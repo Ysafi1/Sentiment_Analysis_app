@@ -29,7 +29,7 @@ demo = gr.Interface(
     fn=sentiment_analysis,
     inputs=gr.Textbox(placeholder="Write/Type your tweet here"),
     outputs="text",
-    #intrepretation="default",
+   
     examples=[
         ["Covid Vaccine are Health"],
         ["There's a global pandemic ongoing called Covid"],
