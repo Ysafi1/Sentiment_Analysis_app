@@ -70,9 +70,9 @@ check out the model weights at https://colab.research.google.com/drive/1n6PmeRPT
 
 here is the deployment app link of Gradio Sentiments Analyzer
 
-| *Link* |
-|--------|
-| https://huggingface.co/spaces/KABANDA18/Gradio-Sentiments-Analyzer |
+| *Website* | *Link* |
+|-----------|--------|
+| *HuggingFace* | https://huggingface.co/spaces/KABANDA18/Gradio-Sentiments-Analyzer |
 
 
 
